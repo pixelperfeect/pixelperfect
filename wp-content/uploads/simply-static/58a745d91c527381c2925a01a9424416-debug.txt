@@ -1,0 +1,2 @@
+[2024-05-19 02:26:23] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/pixelperfect
+[2024-05-19 02:26:23] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/pixelperfect
